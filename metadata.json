@@ -1,0 +1,10 @@
+{
+  "name": "APLIKASI ABSENSI SISWA SDN 3 GODOG",
+  "description": "Aplikasi Absensi Siswa SDN 3 Godog Garut modern, profesional, offline-first dengan IndexedDB, rekapitulasi otomatis, ekspor-impor cadangan, dan cetak laporan resmi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
